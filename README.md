@@ -1,0 +1,1 @@
+Run in console `node index.js`

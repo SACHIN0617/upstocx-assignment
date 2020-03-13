@@ -1,0 +1,16 @@
+{
+  "name": "upstocx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "lodash": "^4.17.15",
+    "websocket": "^1.0.31"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
